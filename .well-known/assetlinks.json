@@ -1,0 +1,25 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cloud.thailand.debug",
+      "sha256_cert_fingerprints": [
+        "9C:C1:80:5C:F5:F7:FE:08:76:D0:55:18:54:C5:9C:B0:0E:D7:8B:C6:5B:23:01:0A:F3:49:6D:AD:35:5E:44:14"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "web",
+      "site": "https://wilfred-yan.github.io"
+    }
+  }
+]
