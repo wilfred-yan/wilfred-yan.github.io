@@ -6,7 +6,20 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.cloud.thailand.debug",
+      "package_name": "com.cloud.thailand",
+      "sha256_cert_fingerprints": [
+        "84:8A:7E:15:D3:74:C9:1F:E2:72:B6:74:BD:D7:34:26:40:64:C8:17:AB:D2:34:1E:45:05:D8:AF:65:68:61:A8"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cloud.thailand",
       "sha256_cert_fingerprints": [
         "9C:C1:80:5C:F5:F7:FE:08:76:D0:55:18:54:C5:9C:B0:0E:D7:8B:C6:5B:23:01:0A:F3:49:6D:AD:35:5E:44:14"
       ]
@@ -18,8 +31,11 @@
       "delegate_permission/common.get_login_creds"
     ],
     "target": {
-      "namespace": "web",
-      "site": "https://wilfred-yan.github.io"
+      "namespace": "android_app",
+      "package_name": "com.cloud.thailand.debug",
+      "sha256_cert_fingerprints": [
+        "9C:C1:80:5C:F5:F7:FE:08:76:D0:55:18:54:C5:9C:B0:0E:D7:8B:C6:5B:23:01:0A:F3:49:6D:AD:35:5E:44:14"
+      ]
     }
   }
 ]
