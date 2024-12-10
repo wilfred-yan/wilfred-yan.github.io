@@ -10,7 +10,9 @@
             {
                 "appID": "C2U62L8QT7.com.tiger.cloudbase.thailand.dev",
                 "paths": [
-                    "/app"
+                    "/app",
+                    "/en/year-in-review/2024-with-binance_th",
+                    "/th/year-in-review/2024-with-binance_th"
                 ]
             }
         ]
